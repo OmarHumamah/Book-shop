@@ -88,6 +88,6 @@ if(parsedArray){
         new Books (parsedArray[i].name,parsedArray[i].price,)
         booksArray[i].randomPages()
     }
-    rdrTable()
-    rdrRows()
 }
+rdrTable()
+rdrRows()
