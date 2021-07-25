@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+   color: #eee;
+}
+body{
+    background-image: url('https://peoriaparks.org/wp-content/uploads/2017/12/BookCourt_iStock-690358116-e1515177346323.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgba(64, 34, 24,0.7);
+    
+    
+}
+header h1 {
+    padding-top: 3%;
+    /* position: relative;
+    top: 0%; */
+}
+
+section {
+    margin: 2%;
+    background-color: rgba(64, 34, 24,0.7);
+    width: fit-content;
+    display: inline-block;
+}
+
+table th {
+    border: 2px solid;
+    width: 287px;
+}
+
+#submit{
+    background-color: #C68B59;
+}
+
+main{
+    height: 100vh;
+}
+
+footer{
+    height: 75px;
+    text-align: center;
+    background-color: rgba(64, 34, 24,0.7);
+}
+
+footer p {
+    padding-top: 2%;
+}
+
+#fo{
+    position: relative;
+    top: 17%;
+    padding: 44px;
+}
+
+#ta{
+    position: relative;
+    top: 29%;
+    padding: 34px;
+
+}
